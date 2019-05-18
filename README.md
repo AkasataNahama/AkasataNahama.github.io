@@ -1,2 +1,2 @@
-# AkasataNahama.github.io
+# akasatanahama.github.io
 Test repository
